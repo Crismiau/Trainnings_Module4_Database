@@ -5,7 +5,7 @@ Este repositorio contiene todos mis entrenamientos realizados en el módulo 4 de
 ## 🗂️ Estructura del repositorio
 - 📁 **Consultas/**: Carpeta con imágenes y archivos relacionados a consultas realizadas durante el entrenamiento.
 - 📝 **trainning_cristian_agudelo_con_comentarios.sql**: Script SQL con comentarios explicativos de los ejercicios y prácticas.
-- 📤 **Trainning_cristian_agudelo_export_data.sql**: Script SQL para exportar datos y estructuras de las bases trabajadas.
+- 📤 **Trainning_cristian_agudelo_export_data.sql**: Script SQL para importar datos y estructuras de las bases trabajadas.
 
 ## 🧑‍💻 Descripción
 Aquí se almacenan los ejercicios, scripts, consultas y recursos utilizados en el proceso de aprendizaje sobre bases de datos relacionales, modelado, consultas SQL y administración de datos. 🗃️
