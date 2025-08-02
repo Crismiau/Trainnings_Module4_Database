@@ -1,6 +1,6 @@
 # 📚 Trainnings_Module4_Database
 
-Este repositorio contiene todos mis entrenamientos realizados en el módulo 4 de Bases de Datos de Riwi. 🚀
+Este repositorio contiene todos mis entrenamientos y challenges realizados en el módulo 4 de Bases de Datos de Riwi. 🚀
 
 ## 🗂️ Estructura del repositorio
 - 📁 **Consultas/**: Carpeta con imágenes y archivos relacionados a consultas realizadas durante el entrenamiento.
